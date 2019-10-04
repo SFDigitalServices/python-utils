@@ -5,7 +5,7 @@ setup(
     url='https://github.com/SFDigitalServices/sfds-python-utils',
     author='Josh Chou',
     author_email='joshua.chou@sfgov.org ',
-    packages=['sfds-python-utils'],
+    packages=['sfds_python_utils'],
     install_requires=['falcon'],
     version='0.1',
     license='MIT',
