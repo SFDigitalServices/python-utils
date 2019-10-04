@@ -6,7 +6,7 @@ setup(
     author='Josh Chou',
     author_email='joshua.chou@sfgov.org ',
     packages=['python-utils'],
-    install_requires=['falcon', 'os'],
+    install_requires=['falcon'],
     version='0.1',
     license='MIT',
     description='Useful(?) python code',
