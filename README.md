@@ -1,0 +1,1 @@
+pipenv install git+https://github.com/SFDigitalServices/sfds-python-utils.git#egg=sfds-python-utils
